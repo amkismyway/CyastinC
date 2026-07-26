@@ -1,0 +1,9 @@
+Model,Testing budget (%),People tested,Cases detected,Case detection (%),Positive yield (%),Number needed to test
+Race-containing XGBoost,10,416,126,36.84,30.29,3.3
+Race-containing XGBoost,20,832,194,56.73,23.32,4.29
+Race-containing XGBoost,30,1248,243,71.05,19.47,5.14
+Race-containing XGBoost,50,2079,296,86.55,14.24,7.02
+Race-free XGBoost,10,416,118,34.5,28.37,3.53
+Race-free XGBoost,20,832,184,53.8,22.12,4.52
+Race-free XGBoost,30,1248,241,70.47,19.31,5.18
+Race-free XGBoost,50,2079,294,85.96,14.14,7.07

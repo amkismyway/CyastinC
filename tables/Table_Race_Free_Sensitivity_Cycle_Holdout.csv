@@ -1,0 +1,5 @@
+Model,Train cycle,Test cycle,Test N,Test cases,AUROC,AUPRC,Brier
+Race-containing XGBoost,1999-2000,2001-2002,2217,195,0.791,0.232,0.075
+Race-containing XGBoost,2001-2002,1999-2000,1941,147,0.778,0.206,0.066
+Race-free XGBoost,1999-2000,2001-2002,2217,195,0.783,0.242,0.075
+Race-free XGBoost,2001-2002,1999-2000,1941,147,0.774,0.186,0.068
