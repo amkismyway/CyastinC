@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and this software."
+title: "Machine Learning-Guided Selection for Cystatin C Testing"
+type: software
+authors:
+  - family-names: Khawaja
+    given-names: Abdullah
+version: 1.0.0
+date-released: 2026-07-26
+license: MIT
+repository-code: "REPLACE_WITH_GITHUB_REPOSITORY_URL"
+preferred-citation:
+  type: article
+  title: "Machine Learning-Guided Selection for Cystatin C Testing to Identify Creatinine-Cystatin C eGFR Discordance in U.S. Adults"
+  authors:
+    - family-names: Khawaja
+      given-names: Abdullah
+  year: 2026
+  journal: "Manuscript in preparation"
